@@ -13,4 +13,3 @@ function useCurrencyInfo(currency)
     return data;
 }
 export default useCurrencyInfo;
-// https://api.freecurrencyapi.com/v1/latest?apikey=YOUR-APIKEY
